@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hausaufgaben 1</string>
+    <string name="welcome">willkommen</string>
+    <string name="login">Anmeldung</string>
+</resources>

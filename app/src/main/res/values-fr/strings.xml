@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Devoir 1</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="login">s'identifier</string>
+</resources>
