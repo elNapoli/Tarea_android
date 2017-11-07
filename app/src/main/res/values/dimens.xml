@@ -1,4 +1,4 @@
 <resources>
-    <dimen name="txt_56">56dp</dimen>
+    <dimen name="txt_56">20dp</dimen>
     <dimen name="padding_200">100dp</dimen>
 </resources>
