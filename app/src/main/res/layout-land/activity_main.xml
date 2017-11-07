@@ -14,7 +14,6 @@
         android:layout_height="wrap_content"
         android:text="@string/welcome"
         android:textSize="@dimen/txt_56"
-        app:layout_constraintBottom_toTopOf="@+id/authenticate"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -27,7 +26,6 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:text="@string/login"
-        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="@id/client_id_input_layout"
         app:layout_constraintRight_toRightOf="@id/client_id_input_layout"
         app:layout_constraintTop_toBottomOf="@id/client_id_input_layout" />
